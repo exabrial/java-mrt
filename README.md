@@ -21,3 +21,7 @@ Limitations:
 * all previous named codes in the *_ADDPATH versions are not supported
 
 This is great work but needs a code review / polishing and test cases.
+
+#### Migration/Fork information
+
+I forked and migrated this project from the original location to make a signed release in maven central. The original authort did wonderful work and I'm thankful for his project. This release is a drop-in replacement, with one notable exception: unknown attributes are simply ignored, rather than `AttributeException` being thrown.
