@@ -12,11 +12,10 @@
 
 	<url>https://github.com/exabrial/java-mrt</url>
 	<scm>
-		<connection>
-			scm:git:ssh://git@github.com:exabrial/java-mrt.git</connection>
-		<developerConnection>
-			scm:git:ssh://git@github.com:exabrial/java-mrt.git</developerConnection>
+		<connection>scm:git:ssh://git@github.com/exabrial/exabrial/java-mrt.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com/exabrial/java-mrt.git</developerConnection>
 		<url>https://github.com/exabrial/java-mrt/tree/master</url>
+		<tag>HEAD</tag>
 	</scm>
 
 	<properties>
