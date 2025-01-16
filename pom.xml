@@ -13,9 +13,9 @@
 	<url>https://github.com/exabrial/java-mrt</url>
 	<scm>
 		<connection>
-			scm:git:ssh://git@github.com:paaguti/java-mrt.git</connection>
+			scm:git:ssh://git@github.com:exabrial/java-mrt.git</connection>
 		<developerConnection>
-			scm:git:ssh://git@github.com:paaguti/java-mrt.git</developerConnection>
+			scm:git:ssh://git@github.com:exabrial/java-mrt.git</developerConnection>
 		<url>https://github.com/exabrial/java-mrt/tree/master</url>
 	</scm>
 
